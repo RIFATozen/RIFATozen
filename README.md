@@ -33,16 +33,6 @@
 
 ---
 
-## 📱 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Accessible Portfolio Website** | Built a fully responsive and accessible portfolio website to get better at animation techniques and improve modern UI/UX skills. | Next.js, TypeScript, TailwindCSS, Framer Motion, Shadcn/UI |
-| **MovieArt** | Built a web application that fetches and displays movie and TV show data from a themoviedb API. Implemented dynamic routing, loading states, reusable components. Leveraged full capabilities of Next.js, including server-side rendering and optimized performance. | Next.js, TypeScript, TailwindCSS |
-| **Partner Support Toolkit** | Multi-tenant SaaS platform for managing customer feedback. Each partner gets secure access to their own feedback data. | Next.js, TypeScript, TailwindCSS, Shadcn/UI, Supabase |
-
----
-
 ## 🏆 Certificates
 
 - **"Web Programming with REACT"** - [View Certificate](https://drive.google.com/file/d/1magBfJTZzoq7fYc4aX3PF9xuXGloN04c/view)
